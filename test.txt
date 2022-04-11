@@ -16,3 +16,4 @@ new hello world!
 --------
 clone test
 SSH test!
+SSH insert 插入成功！
